@@ -17,8 +17,7 @@ public class Gititpro
    {
       Gititpro g1 = new Gititpro(1,10000,"Mathi");
       Gititpro g2 = new Gititpro(2,30003,"Gopi");
-      
-      
+
       System.out.println(g1.salary);
    }
    
